@@ -1,0 +1,1 @@
+## [Patika](https://www.patika.dev) Bootstrap Eğitimi Ödev-2.
